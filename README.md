@@ -4,75 +4,54 @@ The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for dev
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** — all curated to help you **build faster, design better, and save bigger** this season.
 
-**Total Deals Count**: X+
+> **Total Deals Count**: X+
 
 
 ## Overview
 
-Every year, hundreds of tools and platforms run **Black Friday developer deals** and **Cyber Monday SaaS offers** but most get lost in noise.  
+Every year, hundreds of tools and platforms run **Black Friday developer deals** and **Cyber Monday SaaS offers** but most get lost in the noise.  
 
-We handpick **high-quality, time-limited offers** relevant to:
-- Developers building with React, Next.js, Tailwind, and modern stacks  
+**Who It’s For**
+- Developers working with React, Next.js, Tailwind, and modern stacks  
 - Designers looking for UI kits, icon packs, and design systems  
-- Indie makers and SaaS founders seeking cost-effective upgrades  
-- AI enthusiasts exploring tools that automate workflows  
+- Indie makers and SaaS founders seeking affordable upgrades  
+- AI enthusiasts exploring workflow automation tools  
 
-Our focus: verified coupons, deals, discount info, and active community contributions.
+**What You’ll Find**
+- **Curated, verified deals** on trusted developer and designer tools  
+- **Centralized listings** for 2025’s best dev and SaaS offers  
+- **Community contributions** from developers, teams, and creators 
+- **Simple submission process** for both technical and non-technical users 
+- **Each deal includes** the product name, description, offer, and validity
 
----
-
-## What You’ll Find Here
-
-- **Curated Deals:** Authentic, verified discounts on trusted developer and designer tools  
-- **Single Source:** A one-stop reference for **Black Friday 2025 dev tools** and **Cyber Monday SaaS deals**  
-- **Community Driven:** Updated by developers, designers, and product teams  
-- **Easy Submissions:** Anyone: technical or non-technical can submit.  
-
-Every entry includes:
-- Product name, Link and short summary  
-- Offer details (percentage, coupon, or bonus)  
-- Start and end dates  
-
----
 
 ## How to Contribute
 
-We welcome contributions from **everyone**: developers, designers, product teams, and creators.  
+Found a great **Black Friday 2025** or **Cyber Monday 2025** deal?  Add it here and help the community discover verified discounts.
 
-If you discover a new or verified deal for **Black Friday 2025** or **Cyber Monday 2025**, you can share it in two ways:
-
-### For GitHub Users (Technical)
+**For Developers (GitHub Users)**
 1. Fork this repository  
-2. Edit this `README.md`  
-3. Add the deal in the correct category section (format examples below) |
+2. Edit the `README.md` file  
+3. Add your deal under the correct category (see format below)  
 4. Submit a Pull Request  
 
-**Note:** Include the official link, coupon code (if any), and offer validity 
+**Include:** the product link, coupon (if any), and offer validity dates.
 
-### For Non-Technical Users
+> For Everyone Else: 👉 **[Submit a Deal Form](#)**  
 
-👉 **[Submit a Deal Here](https://pimjo.com/black-friday-submit)**  
-
-Once submitted, our team reviews and adds it to this repository within 24–48 hours.
+Our team reviews and publishes valid submissions within **24–48 hours**.
 
 ---
 
-## 💡 Submission Guidelines
+## Submission Guidelines
 
 To maintain quality and accuracy:
-- Only include **active or upcoming deals** (no expired offers)  
-- Link directly to **official sources** (no third-party coupon sites)  
-- Include start and end dates wherever possible  
-- Avoid duplicates: check existing listings before adding  
-- Make sure deal is relevant to **developers**, **designers**, or **builders**
-- Don't change the order of the deals, First come first Serve.
-
-**Accepted Deal Types**
-- Developer tools, SDKs, frameworks  
-- SaaS products or APIs  
-- UI kits, templates, icons, or design assets  
-- AI-powered tools or automation platforms  
-- Learning resources (courses, books)  
+- Submit only **active or upcoming deals**  
+- Use **official links** no third-party coupon sites  
+- Include **start and end dates** when available  
+- **Check for duplicates** before submitting  
+- Deals must be relevant to **developers or designers**  
+- Maintain the existing order: **first come, first served**
 
 ---
 
@@ -171,7 +150,7 @@ Our mission is to make this repo:
 
 ---
 
-## 📜 License
+## License
 
 This repository is open-source under the [MIT License](LICENSE).  
 All deals are community-submitted and verified by maintainers.
