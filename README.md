@@ -86,6 +86,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF Business Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Notion Backups**](https://notionbackups.com/) | Easily back up and restore your Notion workspaces. | 25% off of all yearly plans (Coupon: `NOTIONBACKUPS25`) | Nov 20 – Dec 4, 2025 |
+| [**React PDF**](https://www.react-pdf.dev/) | React PDF is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 25% off Developer License (Coupon: `BFCMDEV25`) & 40% off Organization License (Coupon: `BFCMORG25`) | Nov 17 – Dec 1, 2025 |
 
 ---
 
@@ -121,6 +122,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
 | [**Vue School**](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Vue School offers premium video courses to help you master Vue.js, Nuxt, and modern frontend development from industry experts. | **Up to 60% OFF** | Now – Dec 2 2025 |
+| [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [**50% OFF for Two Years**](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: `2025BF50`) and [**30% OFF for One Year**](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: `2025BF30`) | Nov 12 – Dec 1, 2025 |
 
 ---
 
